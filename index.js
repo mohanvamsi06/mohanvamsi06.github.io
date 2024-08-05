@@ -45,14 +45,3 @@ myBtn.addEventListener('click', async function(event) {
 function myresume() {
   document.getElementById("alert2").style.visibility = "visible";
 }
-
-document.addEventListener('DOMContentLoaded', function(){
-  var options = {
-      strings: ["a Undergrad Student in CSE(CYS)", "into Web Development", "into Full Stack Development", "into Cyber Security"],
-      typeSpeed: 30,
-      backSpeed: 10,
-      backDelay: 2000,
-      loop: true
-  };
-  var typed = new Typed("#typed-output", options);
-});

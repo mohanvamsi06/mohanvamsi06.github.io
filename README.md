@@ -1,3 +1,3 @@
 # Portfolio
 
-#### Deployed at https://mohanvamsi06.github.io/
+#### Deployed at https://mohanvamsi06.github.io/Portfolio/
