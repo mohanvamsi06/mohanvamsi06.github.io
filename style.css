@@ -152,7 +152,7 @@ section .title {
 .about .about-content .left img {
   height: 380px;
   width: 290px;
-  object-fit: cover;
+  object-fit:contain;
 }
 
 .about .about-content .right {
